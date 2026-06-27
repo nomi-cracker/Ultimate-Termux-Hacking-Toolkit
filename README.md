@@ -25,4 +25,4 @@ This toolkit is for **Educational and Ethical Hacking purposes only**.
 Author is not responsible for any misuse.
 
 ---
-*Created by White Hack Labs*
+*Created by NOMI CYBER-X*
